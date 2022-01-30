@@ -43,15 +43,15 @@ npm install
 
 # Built with
    * Front-end
-   * Map Box APIs
-   * Bootstrap
+     * Map Box APIs
+     * Bootstrap
    * Back-end
-   * express
-   * mongoDB
-   * mongoose
-   * passport
-   * passport-local
-   * express-session
-   * method-override
-   * Heroku
-   * Cloud9
+     * express
+     * mongoDB
+     * mongoose
+     * passport
+     * passport-local
+     * express-session
+     * method-override
+     * Heroku
+     * Cloud9
