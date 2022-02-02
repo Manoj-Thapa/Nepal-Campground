@@ -16,7 +16,7 @@ For Live Demo go to http://nepal-campground.herokuapp.com
     
     * One cannot edit or delete posts and comments created by other users
     
-  * Manage campground posts with basic functionalities:
+  * Manage campground posts with basic functionalities
 
     * Create, edit and delete posts and comments
     
